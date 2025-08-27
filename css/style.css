@@ -1,0 +1,14 @@
+
+/* Simple beginner-style CSS */
+body { font-family: Arial, sans-serif; margin: 0; background: #f5f5f5; }
+header, footer { background: #333; color: #fff; padding: 12px; text-align: center; }
+nav { background: #444; padding: 8px; text-align: center; }
+nav a { color: #fff; text-decoration: none; margin: 0 10px; }
+main { padding: 16px; background: #fff; max-width: 900px; margin: 16px auto; border: 1px solid #ddd; }
+h1 { margin-top: 0; }
+table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+form label { display:block; margin-top:10px; }
+input, select, textarea { width: 100%; padding: 8px; margin-top: 4px; border: 1px solid #ccc; }
+button { margin-top: 12px; padding: 8px 12px; }
+.tagline { color: #ddd; font-size: 0.95rem; }
